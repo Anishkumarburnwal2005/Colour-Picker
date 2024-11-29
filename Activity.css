@@ -1,0 +1,14 @@
+div {
+    /* position:relative;
+    left:530px; */
+    height:200px;
+    width:500px;
+    border:1px solid black;
+    /* text-align:center; */
+    margin:auto;
+    font-size:300;
+}
+
+body {
+    text-align: center;
+}
